@@ -1,0 +1,27 @@
+footer {
+  background-color: #151515;
+  padding: 40px 20px;
+  color: #fff;
+}
+
+footer h3 {
+  color: #f7c906;
+  font-weight: 300;
+  margin-bottom: 12px;
+}
+
+.footer-links {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  gap: 6px;
+}
+
+.footer-links a {
+  color: #d1d5dbba;
+}
+
+.footer-links a:hover {
+  transition-duration: 0.5s;
+  color: #fff;
+}
