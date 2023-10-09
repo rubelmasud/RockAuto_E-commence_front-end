@@ -14,7 +14,7 @@ const Footer = () => {
   return (
     <footer>
       <div className=" md:flex ">
-        <div className="links-section w-[75%] grid lg:grid-cols-3 md:grid-cols-2 justify-between items-center">
+        <div className="links-section w-[75%] grid lg:grid-cols-3 md:grid-cols-2 grid-cols-2 gap-6 justify-between items-center">
           <div className="">
             <h3>OUR COMPANY</h3>
             <div className="footer-links">
@@ -46,10 +46,10 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="contact-info w-[25%] text-[#f7c906] mt-3">
+        <div className="contact-info md:w-[25%] text-[#f7c906] md:mt-3 mt-6">
           <div className="flex flex-col gap-4">
             <div className="flex gap-2">
-              <BiPhoneCall size={28} />
+              <BiPhoneCall size={24} />
               <p className="text-[#d1d5dbba] text-[14px]">+123 456 778</p>
             </div>
             <div className="flex gap-2">
@@ -89,8 +89,10 @@ const Footer = () => {
         </div>
       </div>
       <div className="w-full h-[0.5px] bg-slate-500 my-10"></div>
-      <div className="flex justify-between">
-        <h5 className="text-[17px]">Powered By OpenCart Your Store © 2023</h5>
+      <div className="flex gap-3 justify-between">
+        <h5 className="md:text-[17px] text-[14px]">
+          Powered By OpenCart Your Store © 2023
+        </h5>
         <div className="flex gap-4">
           <FaCcPaypal size={28} />
           <FaCcDiscover className="text-blue-300" size={28} />
