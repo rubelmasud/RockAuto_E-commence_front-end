@@ -1,0 +1,7 @@
+.banner-img {
+  background: rgba(0, 0, 0, 0.5) url("https://i.ibb.co/jrkM8pK/car.jpg");
+  background-size: cover;
+  height: 85vh;
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+}

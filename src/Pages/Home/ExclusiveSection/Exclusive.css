@@ -1,0 +1,20 @@
+.img1-opacity {
+  background: rgba(0, 0, 0, 0.5)
+    url("https://i.ibb.co/6wPNL9b/illustration-alloy-wheel-isolated-white-background-949828-3036-removebg-preview.png");
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+}
+.img2-opacity {
+  background: rgba(0, 0, 0, 0.5)
+    url("https://i.ibb.co/Ry615Dj/sport-car-wheel-with-red-brake-gear-107791-949-removebg-preview.png");
+  background-repeat: no-repeat;
+  background-blend-mode: darken;
+}
+.cart {
+  font-size: 24px;
+  transition: transform 0.6s;
+}
+
+.cart:hover h2 {
+  transform: scaleY(-1);
+}

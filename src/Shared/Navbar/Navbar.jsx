@@ -32,7 +32,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="">
+    <nav className="md:px-12 px-6">
       <input type="checkbox" name="" id="toggler" />
       <label htmlFor="toggler" className="menu-icon">
         <AiOutlineMenu size={24} />

@@ -2,34 +2,37 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    list-style: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: capitalize;
-    outline: none;
-    transition: .2s linear;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+  outline: none;
+  transition: 0.2s linear;
 }
 
-html{
-    font-size: 72.5%;
-    scroll-behavior: smooth;
-    scroll-padding-top: 6rem;
-    overflow-x: hidden;
+html {
+  font-size: 72.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+  overflow-x: hidden;
 }
 
-
-
-body{
-    font-size: 1.5rem;
-    
+body {
+  font-size: 1.5rem;
 }
 
-@media (max-width:991px) {
-    html {
-            font-size: 65%;
-            
-        }
+.primary-btn {
+  @apply bg-[#a51016] px-6 py-3 text-white rounded-md text-[16px];
+}
+.primary-btn:hover {
+  @apply bg-[#f7c906]  text-black duration-500;
+}
+
+@media (max-width: 991px) {
+  html {
+    font-size: 65%;
+  }
 }
