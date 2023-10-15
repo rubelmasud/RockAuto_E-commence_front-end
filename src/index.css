@@ -31,6 +31,13 @@ body {
   @apply bg-[#f7c906]  text-black duration-500;
 }
 
+.secondary-btn {
+  @apply bg-[#f7c906] px-6 py-3 text-black rounded-md text-[16px];
+}
+.secondary-btn:hover {
+  @apply bg-[#a51016]  text-white duration-500;
+}
+
 @media (max-width: 991px) {
   html {
     font-size: 65%;

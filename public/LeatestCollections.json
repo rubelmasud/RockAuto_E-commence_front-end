@@ -1,0 +1,162 @@
+[
+    {
+        "ID": 1,
+        "name": "Premium Car Wax",
+        "price": 29.99,
+        "rating": 4.7,
+        "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 2,
+        "name": "Tire Pressure Gauge",
+        "price": 14.99,
+        "rating": 4.5,
+             "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 3,
+        "name": "Car Seat Covers",
+        "price": 39.99,
+        "rating": 4.8,
+         "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 4,
+        "name": "LED Headlight Bulbs",
+        "price": 49.99,
+        "rating": 4.6,
+         "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 5,
+        "name": "Windshield Wipers",
+        "price": 12.99,
+        "rating": 4.4,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/1-370x370.jpg",
+        "category":"Best Seller"
+    },
+    {
+        "ID": 6,
+        "name": "Car Floor Mats",
+        "price": 24.99,
+        "rating": 4.7,
+         "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/1-370x370.jpg",
+        "category":"Best Seller"
+    },
+    {
+        "ID": 7,
+        "name": "Engine Oil Filter",
+        "price": 8.99,
+        "rating": 4.3,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/1-370x370.jpg",
+        "category":"Best Seller"
+    },
+    {
+        "ID": 8,
+        "name": "Car Air Freshener",
+        "price": 5.99,
+        "rating": 4.2,
+             "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/1-370x370.jpg",
+        "category":"Best Seller"
+    },
+    {
+        "ID": 9,
+        "name": "Roof Rack System",
+        "price": 79.99,
+        "rating": 4.9,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/1-370x370.jpg",
+        "category":"Best Seller"
+    },
+    {
+        "ID": 10,
+        "name": "Car Battery Charger",
+        "price": 34.99,
+        "rating": 4.6,
+             "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 11,
+        "name": "Car Phone Mount",
+        "price": 9.99,
+        "rating": 4.2,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 12,
+        "name": "Portable Car Vacuum",
+        "price": 19.99,
+        "rating": 4.5,
+           "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 13,
+        "name": "Brake Pads Set",
+        "price": 39.99,
+        "rating": 4.7,
+             "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 14,
+        "name": "Car Audio System",
+        "price": 99.99,
+        "rating": 4.8,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 15,
+        "name": "Car Polishing Kit",
+        "price": 54.99,
+        "rating": 4.6,
+             "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 16,
+        "name": "Trailer Hitch Receiver",
+        "price": 69.99,
+        "rating": 4.7,
+           "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 17,
+        "name": "Radar Detector",
+        "price": 79.99,
+        "rating": 4.4,
+            "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/2-370x370.jpg",
+        "category":"New Arrivals"
+    },
+    {
+        "ID": 18,
+        "name": "Car Jump Starter",
+        "price": 49.99,
+        "rating": 4.5,
+         "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 19,
+        "name": "Car Cover",
+        "price": 29.99,
+        "rating": 4.6,
+        "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    },
+    {
+        "ID": 20,
+        "name": "Wheel Lock Set",
+        "price": 12.99,
+        "rating": 4.3,
+         "img":"https://demo.ishithemes.com/opencart/OPC138/OPC138/image/cache/catalog/productsimage/14-370x370.jpg",
+        "category":"Featured"
+    }
+]

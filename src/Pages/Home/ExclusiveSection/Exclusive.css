@@ -10,11 +10,11 @@
   background-repeat: no-repeat;
   background-blend-mode: darken;
 }
-.cart {
+.exclusive_cart {
   font-size: 24px;
   transition: transform 0.6s;
 }
 
-.cart:hover h2 {
+.exclusive_cart:hover h2 {
   transform: scaleY(-1);
 }
