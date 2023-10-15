@@ -2,7 +2,7 @@ import "./HistoryBlock.css";
 
 const HistoryBlock = () => {
   return (
-    <div className="grid md:grid-cols-2 my-20 w-full h-screen">
+    <div className="grid md:grid-cols-2 my-20 w-full h-screen  ">
       <div className="first_block flex items-center justify-center">
         <div className="first_block_content text-center text-white px-20 ">
           <p className="text-[#f7c906]">Get All New Car On Rent</p>

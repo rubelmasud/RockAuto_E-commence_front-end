@@ -8,7 +8,7 @@ import {
 } from "react-icons/ai";
 
 const LatestProductCart = ({ Product }) => {
-  const { name, rating, img } = Product || {};
+  const { name, rating, img, price } = Product || {};
   return (
     <div className="cart">
       <img className="cart_img" src={img} alt="" />
@@ -19,6 +19,7 @@ const LatestProductCart = ({ Product }) => {
       </div>
       <div className="cart_content">
         <h3 className="text-[20px]">{name}</h3>
+        <p className="text-left font-semibold text-[#a51016]">${price}</p>
         <div className="my-2 ">
           <Rating style={{ maxWidth: 70 }} value={rating} readOnly />
         </div>
