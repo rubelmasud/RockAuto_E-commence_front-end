@@ -4,7 +4,7 @@ const HistoryBlock = () => {
   return (
     <div className="grid md:grid-cols-2 my-20 w-full h-screen  ">
       <div className="first_block flex items-center justify-center">
-        <div className="first_block_content text-center text-white px-20 ">
+        <div className="first_block_content text-center text-white md:px-20 px-10">
           <p className="text-[#f7c906]">Get All New Car On Rent</p>
           <h3 className="text-5xl mt-6">PRODUCT BY AUTO DRIVE</h3>
           <p className="text-[15px] text-gray-200 my-6">
@@ -17,7 +17,7 @@ const HistoryBlock = () => {
         </div>
       </div>
       <div className="second_block  flex items-center justify-center">
-        <div className="second_block_content text-center text-white px-20 ">
+        <div className="second_block_content text-center text-white md:px-20 px-10">
           <p className="text-[#f7c906]">Save On New Arrivals</p>
           <h3 className="text-5xl mt-6">Save On New Arrivals</h3>
           <p className="text-[15px] text-gray-200 my-6">

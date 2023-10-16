@@ -47,10 +47,34 @@
   gap: 10px;
 }
 
+.latest_cart_icons .icon {
+  font-size: 2.6rem;
+}
+
 .latest_cart_icons .icon:hover {
   color: #a51016;
 }
 
 .cart:hover .latest_cart_icons {
   right: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .cart {
+    height: 200px;
+  }
+
+  .cart_content {
+    bottom: 0%;
+    padding: 0px 10px;
+  }
+  .latest_cart_icons {
+    right: 10px;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .latest_cart_icons .icon {
+    font-size: 1.6rem;
+  }
 }

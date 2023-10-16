@@ -13,15 +13,17 @@ const LatestProductCart = ({ Product }) => {
     <div className="cart">
       <img className="cart_img" src={img} alt="" />
       <div className="latest_cart_icons">
-        <AiOutlineEye className="icon" size={28} />
-        <AiOutlineHeart className="icon" size={28} />
-        <AiOutlineShoppingCart className="icon" size={28} />
+        <AiOutlineEye className="icon" />
+        <AiOutlineHeart className="icon" />
+        <AiOutlineShoppingCart className="icon" />
       </div>
-      <div className="cart_content">
-        <h3 className="text-[20px]">{name}</h3>
-        <p className="text-left font-semibold text-[#a51016]">${price}</p>
+      <div className="cart_content  w-full ">
+        <h3 className="md:text-[20px] text-[14px] text-left">{name}</h3>
+        <p className="text-left md:font-semibold text-[#a51016] md:text-[17px] text-[12px]">
+          ${price}
+        </p>
         <div className="my-2 ">
-          <Rating style={{ maxWidth: 70 }} value={rating} readOnly />
+          <Rating style={{ maxWidth: 60 }} value={rating} readOnly />
         </div>
       </div>
     </div>

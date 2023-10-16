@@ -60,8 +60,9 @@ const Feature = () => {
           <FeatureItem key={index} {...feature} />
         ))}
       </div>
-      <div className="center_banner -translate-y-48 hover:-translate-y-10 duration-700">
+      <div className="center_banner md:-translate-y-48 hover:-translate-y-10 duration-700">
         <img
+          className="md:h-full h-[400px] mx-auto "
           src="https://demo.ishithemes.com/opencart/OPC138/OPC138/image/catalog/features/features-banner.png"
           alt=""
         />
